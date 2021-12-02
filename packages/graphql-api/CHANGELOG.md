@@ -1,5 +1,11 @@
 # @accounts/graphql-api
 
+## 0.33.2
+
+### Patch Changes
+
+- [#1194](https://github.com/accounts-js/accounts/pull/1194) [`a4fd732d`](https://github.com/accounts-js/accounts/commit/a4fd732d50a3847f86254da413d27a5684417abd) Thanks [@zenweasel](https://github.com/zenweasel)! - Fix repo links in package.json
+
 ## 0.33.1
 
 ### Patch Changes
